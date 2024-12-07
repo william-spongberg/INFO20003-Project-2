@@ -4,7 +4,7 @@
 
 ---
 
-Wrote SQL queries for a dataset in order to find certain information.
+Wrote complex SQL queries for a dataset.
 
 Find the assignment details [here](INFO20003-2023-S2-A2-MewTube.pdf).
 
